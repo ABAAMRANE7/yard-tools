@@ -248,6 +248,7 @@ a {
 	padding-left: 15px;
 	color: #fff;
 	outline: none;
+        margin: 5px;
 }
 .subscribe-form .main-content form button:focus {
 	color: #fff!important;
@@ -269,6 +270,7 @@ a {
 	text-decoration: none;
 	transition: all 0.5s;
 	box-shadow: none;
+	margin: 5px;
 	/*border: none;*/
 }
 
