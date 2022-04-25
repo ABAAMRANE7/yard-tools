@@ -735,6 +735,7 @@ a {
 	.about-page,
 	.contact-page {
 		margin-top: 0px;
+	    text-align: justify;
 	}
 
 }
