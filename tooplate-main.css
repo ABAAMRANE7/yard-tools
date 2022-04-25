@@ -728,6 +728,7 @@ a {
 	.contact-page .right-content .col-md-6,
 	.contact-page .right-content .col-md-12 {
 		padding: 0px;
+	    text-align: justify;
 	}
 	.featured-page {
 		margin-top: 80px;
@@ -735,7 +736,7 @@ a {
 	.about-page,
 	.contact-page {
 		margin-top: 0px;
-	    text-align: justify;
+	
 	}
 
 }
