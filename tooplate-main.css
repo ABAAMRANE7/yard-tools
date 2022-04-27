@@ -364,6 +364,7 @@ a {
 .featured .featured-item {
 	margin-bottom: 30px;
 	text-decoration: none;
+        height: 415px;
 }
 .featured .featured-item h4 {
 	transition: all 0.5s;
